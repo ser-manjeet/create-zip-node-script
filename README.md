@@ -45,7 +45,7 @@ npm install adm-zip fast-glob
 node create-zip.js
 ```
 
-> Replace `archive.js` with the actual filename of the script.
+> Replace `create-zip.js` with the actual filename of the script.
 
 4. The script will generate a ZIP file named after your project folder (e.g., `my-plugin.zip`).
 
