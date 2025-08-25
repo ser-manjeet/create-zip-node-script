@@ -42,7 +42,7 @@ npm install adm-zip fast-glob
 3. **Run the script:**
 
 ```bash
-node archive.js
+node create-zip.js
 ```
 
 > Replace `archive.js` with the actual filename of the script.
